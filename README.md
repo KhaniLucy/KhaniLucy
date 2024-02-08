@@ -1,9 +1,8 @@
-### Hi there 👋
+### LUCY VEROTIA SWELE
 
-<!--
-**KhaniLucy/KhaniLucy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+  **`Website Craftwoman (Developer/Tech-Enthusiast)`**
+  
+I am a enthusiastic entry-level Front-End Developer armed with SHECODES certificates. Proficient in HTML, CSS, and JavaScript.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
