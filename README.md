@@ -33,3 +33,5 @@ I am a dedicated tech learner with a background in Psychology and English, howev
 - ⚡ <strong>Fun fact:</strong>
 My name means as of light, but I don't use lightmode because I don't want to attract bugs. Things aren't always #000000 and #FFFFFF.
 -->
+  <br />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaniLucy&show_icons=true&theme=jolly)
