@@ -1,3 +1,5 @@
+<img align="center" width="45px" src="">
+
 ### LUCY VEROTIA SWELE
 
   **`Website Craftwoman (Developer/Tech-Enthusiast)`**
