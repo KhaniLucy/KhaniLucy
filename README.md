@@ -1,4 +1,6 @@
-<img align="center" width="45px" src="">
+<p align="center">
+<img width="990px" height="390px" src="Untitled.png">
+</p>
 
 ### LUCY VEROTIA SWELE
 
