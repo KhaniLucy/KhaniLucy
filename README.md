@@ -26,7 +26,7 @@ projects in the tech space. All my projects are built from research, planning an
 
 
 - 🔭 <strong>I’m currently working on:</strong>
-  Learning how to build HTML Email, Templates and here is a brief of what I have learnt- is that email templates are build on pure HTML and CSS and the file should be internal as external files are not supported. Therefore the CSS can be inline/internal. JavaScript is not supported. Rely on table-layout cause is suoorted by all email clients. And images have their own disadvantages as some emails do not download images by default.
+  I am currently working on upskilling my skill set in the industry. I am job haunting to leverage my skills and gain knowledge in the working field. 
   
 -  💻<strong>I’m looking to collaborate:</strong>
   I am looking to collaborate with anyone to enhance my skillset, gain knowledge and network for future job roles.
