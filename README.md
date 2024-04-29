@@ -5,9 +5,8 @@
 ### LUCY VEROTIA SWELE
 
   **`Website Craftwoman (Developer/Tech-Enthusiast)`**
-  
-I am a enthusiastic entry-level Front-End Developer armed with SHECODES certificates. Proficient in HTML, CSS, and JavaScript. Good experience in responsive web design using front-end tools such as Bootstrapp, CSS framework(SASS). Coupled with a keen eye for design, eager to contribute my skills to innovate great
-projects in the tech space. All my projects are built from research, planning and designing with the aim to solve real-life problems with code.
+ 
+ Front End Developer diving into the world of Python and its frameowrks. Passionate about creating engaging user experiences. Excitied to blend front end skills in Python prowess. Currently interning as a Software Developer at a construction company, open to other developer job roles that offer payment. 
 
 ### 🧰 Languages and Tools
 
@@ -18,15 +17,18 @@ projects in the tech space. All my projects are built from research, planning an
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
  <br />
 <br />
 
 
 - 🔭 <strong>I’m currently working on:</strong>
-  I am currently working on upskilling my skill set in the industry. I am job haunting to leverage my skills and gain knowledge in the working field. 
+   Diving into the world of Python, Flask, Django, and Docker. Armed with curiosity and determination, with the aim to navigate the intricacies of these poweful tools, learning to build web applications and depoly them with efficiency. 
   
 -  💻<strong>I’m looking to collaborate:</strong>
   I am looking to collaborate with anyone to enhance my skillset, gain knowledge and network for future job roles.
