@@ -6,7 +6,7 @@
 
   **`Website Craftwoman (Developer/Tech-Enthusiast)`**
  
- Front End Developer diving into the world of Python and its frameowrks. Passionate about creating engaging user experiences. Excitied to blend front end skills in Python prowess. Currently interning as a Software Developer at a construction company, open to other developer job roles that offer payment. 
+ Junior Software Developer with great Front End background diving into the world of Python and its frameowrks. Passionate about creating engaging user experiences. Excitied to blend front end skills in Python. Currently interning as a Software Developer at a construction company, open to other developer job roles that offer payment. 
 
 ### 🧰 Languages and Tools
 
@@ -28,7 +28,7 @@
 
 
 - 🔭 <strong>I’m currently working on:</strong>
-   Diving into the world of Python, Flask, Django, and Docker. Armed with curiosity and determination, with the aim to navigate the intricacies of these poweful tools, learning to build web applications and depoly them with efficiency. 
+   Diving into the world of Python, Flask, Django, and Docker. Armed with curiosity and determination, with the aim to navigate the intricacies of these powerful tools, learning to build web applications and depoly them with efficiency. 
   
 -  💻<strong>I’m looking to collaborate:</strong>
   I am looking to collaborate with anyone to enhance my skillset, gain knowledge and network for future job roles.
