@@ -107,4 +107,14 @@ industry.
 - [Build With AI]() - Workshop, 24 May 2025 : I attended the Build with AI 2025 hosted by Google Developer Groups Soweto, I was introduced to Google's powerful Gemini model. The hands-on-labs and technical talks from Thabang Ledwaba that provided valuable insights into building with AI, and this change my perspective into develop practical skills and deepen my understanding of AI technologies and how to use them to solve problems close to me. This experience was especially valueable as I continue exploring AI as a focus area in my developer journey.
 
 
+- [Microsoft AI Skilling Day](): It was an inspiring and knowledge packed event. I discovered practical AI tools such as AZURE AI Engineer, AZURE Data Scientist, and Security Compliance certifications and are all designed to boost career growth in tech.
+<br> 
+The importance of Digital skills: Microsoft's AI Skills initiative emphasized the urgent need for youth to upskill in AI, cloud, and cybersecurity to stay competitive in the job market. 
+<br> 
+Career Readiness: sessions on becoming the best employee and understanding the benefits of certification gave me insight into how AI and continous learning are shaping the future of work.
+<br>
+The AI Skilling event also focused on how the youth can harness technology to create new opportunities in a rapidly evolving digital economy.
+<br>
+Meeting industry leaders and fellow learners was a great reminder of the power of collaboration in tech.  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=++%22Aubrey%22%2C+system-ui;++&size=25&pause=1000&color=F73A6F&center=true&vCenter=true&width=435&height=70&lines=++STAY+TUNED+FOR+MORE+INFO!!)](https://git.io/typing-svg)
