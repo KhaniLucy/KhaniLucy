@@ -115,6 +115,15 @@ Career Readiness: sessions on becoming the best employee and understanding the b
 <br>
 The AI Skilling event also focused on how the youth can harness technology to create new opportunities in a rapidly evolving digital economy.
 <br>
-Meeting industry leaders and fellow learners was a great reminder of the power of collaboration in tech.  
+Meeting industry leaders and fellow learners was a great reminder of the power of collaboration in tech.
+
+- [Huawei Africa Connect 2025:]() Attended the Huawei Africa Connect 03 July 2025.
+<br>
+KEY THEMES:
+<br>1. CLOUD-NATIVE TRNSFORMATION in African enterprises
+<br>2. AI for sustainable development
+<br>3. Importnce of Cybersecurity and infrastructure resilience
+<br>4. Huawei's investment in youth digitl skills training in Africa
+It was inspiring to see the intersection of tech, climate, and community impact. I am excited to explore how I can build solutions aligned with these values.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=++%22Aubrey%22%2C+system-ui;++&size=25&pause=1000&color=F73A6F&center=true&vCenter=true&width=435&height=70&lines=++STAY+TUNED+FOR+MORE+INFO!!)](https://git.io/typing-svg)
