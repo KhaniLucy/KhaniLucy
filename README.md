@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=++%22Aubrey%22%2C+system-ui;++&size=30&pause=1000&color=F73A6F&center=true&vCenter=true&width=435&height=70&lines=+HI%2C+I'M+LUCY+SWELE;+JUNIOR+FRONTEND+DEV)](https://git.io/typing-svg)
 
-**Lucy Verotia Swele**, a Junior Front-end Developer armed with a certificate from SheCodes. I'm passionate about creating beautiful and functional web applications. I am currently sharpening my software development skills at the FNB APP ACADEMY, building accessible and high-performance web applications.
+**Lucy Verotia Swele**, a Junior Front-end Developer armed with a certificate from SheCodes. I'm passionate about creating beautiful and functional web applications whilst  building accessible and high-performance web applications.
 
 ## ABOUT ME  👩🏽‍💻
 I am a dedicated tech enthusiast with a background in Psychology and English majors from the University of South Africa. My passion has shifted towards being a Frontend Developer or more other tech roles. My transition is a reflection of creativity and hunger for problem-solving. It has been a exciting venture into the world of development. I can adapt to change and commitment are my core foundation to evolve in this field. 
